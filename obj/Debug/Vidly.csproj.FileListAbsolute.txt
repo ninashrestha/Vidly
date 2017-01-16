@@ -1,0 +1,157 @@
+c:\users\neena\documents\visual studio 2015\Projects\Vidly\bin\roslyn\csc.exe
+c:\users\neena\documents\visual studio 2015\Projects\Vidly\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\neena\documents\visual studio 2015\Projects\Vidly\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\neena\documents\visual studio 2015\Projects\Vidly\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\neena\documents\visual studio 2015\Projects\Vidly\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\neena\documents\visual studio 2015\Projects\Vidly\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\neena\documents\visual studio 2015\Projects\Vidly\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\neena\documents\visual studio 2015\Projects\Vidly\bin\roslyn\System.Collections.Immutable.dll
+c:\users\neena\documents\visual studio 2015\Projects\Vidly\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\neena\documents\visual studio 2015\Projects\Vidly\bin\roslyn\vbc.exe
+c:\users\neena\documents\visual studio 2015\Projects\Vidly\bin\roslyn\VBCSCompiler.exe
+c:\users\neena\documents\visual studio 2015\Projects\Vidly\bin\roslyn\VBCSCompiler.exe.config
+c:\users\neena\documents\visual studio 2015\Projects\Vidly\bin\Vidly.dll.config
+c:\users\neena\documents\visual studio 2015\Projects\Vidly\bin\Vidly.dll
+c:\users\neena\documents\visual studio 2015\Projects\Vidly\bin\Vidly.pdb
+c:\users\neena\documents\visual studio 2015\Projects\Vidly\bin\Antlr3.Runtime.dll
+c:\users\neena\documents\visual studio 2015\Projects\Vidly\bin\EntityFramework.dll
+c:\users\neena\documents\visual studio 2015\Projects\Vidly\bin\EntityFramework.SqlServer.dll
+c:\users\neena\documents\visual studio 2015\Projects\Vidly\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\neena\documents\visual studio 2015\Projects\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\neena\documents\visual studio 2015\Projects\Vidly\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\neena\documents\visual studio 2015\Projects\Vidly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\neena\documents\visual studio 2015\Projects\Vidly\bin\Microsoft.Owin.dll
+c:\users\neena\documents\visual studio 2015\Projects\Vidly\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\neena\documents\visual studio 2015\Projects\Vidly\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\neena\documents\visual studio 2015\Projects\Vidly\bin\Microsoft.Owin.Security.dll
+c:\users\neena\documents\visual studio 2015\Projects\Vidly\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\neena\documents\visual studio 2015\Projects\Vidly\bin\Microsoft.Owin.Security.Google.dll
+c:\users\neena\documents\visual studio 2015\Projects\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\neena\documents\visual studio 2015\Projects\Vidly\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\neena\documents\visual studio 2015\Projects\Vidly\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\neena\documents\visual studio 2015\Projects\Vidly\bin\Microsoft.Web.Infrastructure.dll
+c:\users\neena\documents\visual studio 2015\Projects\Vidly\bin\Newtonsoft.Json.dll
+c:\users\neena\documents\visual studio 2015\Projects\Vidly\bin\Owin.dll
+c:\users\neena\documents\visual studio 2015\Projects\Vidly\bin\System.Web.Helpers.dll
+c:\users\neena\documents\visual studio 2015\Projects\Vidly\bin\System.Web.Mvc.dll
+c:\users\neena\documents\visual studio 2015\Projects\Vidly\bin\System.Web.Optimization.dll
+c:\users\neena\documents\visual studio 2015\Projects\Vidly\bin\System.Web.Razor.dll
+c:\users\neena\documents\visual studio 2015\Projects\Vidly\bin\System.Web.WebPages.Deployment.dll
+c:\users\neena\documents\visual studio 2015\Projects\Vidly\bin\System.Web.WebPages.dll
+c:\users\neena\documents\visual studio 2015\Projects\Vidly\bin\System.Web.WebPages.Razor.dll
+c:\users\neena\documents\visual studio 2015\Projects\Vidly\bin\WebGrease.dll
+c:\users\neena\documents\visual studio 2015\Projects\Vidly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\neena\documents\visual studio 2015\Projects\Vidly\bin\System.Web.Helpers.xml
+c:\users\neena\documents\visual studio 2015\Projects\Vidly\bin\System.Web.Mvc.xml
+c:\users\neena\documents\visual studio 2015\Projects\Vidly\bin\System.Web.Optimization.xml
+c:\users\neena\documents\visual studio 2015\Projects\Vidly\bin\System.Web.Razor.xml
+c:\users\neena\documents\visual studio 2015\Projects\Vidly\bin\System.Web.WebPages.xml
+c:\users\neena\documents\visual studio 2015\Projects\Vidly\bin\System.Web.WebPages.Deployment.xml
+c:\users\neena\documents\visual studio 2015\Projects\Vidly\bin\System.Web.WebPages.Razor.xml
+c:\users\neena\documents\visual studio 2015\Projects\Vidly\bin\Antlr3.Runtime.pdb
+c:\users\neena\documents\visual studio 2015\Projects\Vidly\bin\Newtonsoft.Json.xml
+c:\users\neena\documents\visual studio 2015\Projects\Vidly\bin\EntityFramework.xml
+c:\users\neena\documents\visual studio 2015\Projects\Vidly\bin\EntityFramework.SqlServer.xml
+c:\users\neena\documents\visual studio 2015\Projects\Vidly\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\neena\documents\visual studio 2015\Projects\Vidly\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\neena\documents\visual studio 2015\Projects\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\neena\documents\visual studio 2015\Projects\Vidly\bin\Microsoft.Owin.xml
+c:\users\neena\documents\visual studio 2015\Projects\Vidly\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\neena\documents\visual studio 2015\Projects\Vidly\bin\Microsoft.Owin.Security.xml
+c:\users\neena\documents\visual studio 2015\Projects\Vidly\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\neena\documents\visual studio 2015\Projects\Vidly\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\neena\documents\visual studio 2015\Projects\Vidly\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\neena\documents\visual studio 2015\Projects\Vidly\bin\Microsoft.Owin.Security.Google.xml
+c:\users\neena\documents\visual studio 2015\Projects\Vidly\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\neena\documents\visual studio 2015\Projects\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\neena\documents\visual studio 2015\Projects\Vidly\obj\Debug\Vidly.csprojResolveAssemblyReference.cache
+c:\users\neena\documents\visual studio 2015\Projects\Vidly\obj\Debug\Vidly.dll
+c:\users\neena\documents\visual studio 2015\Projects\Vidly\obj\Debug\Vidly.pdb
+c:\users\neena\documents\visual studio 2015\Projects\Vidly\obj\Debug\Vidly.Migrations.InitialModel.resources
+c:\users\neena\documents\visual studio 2015\Projects\Vidly\obj\Debug\Vidly.csproj.GenerateResource.Cache
+c:\users\neena\documents\visual studio 2015\Projects\Vidly\obj\Debug\Vidly.Migrations.AddIsSubscribedToCustomer.resources
+c:\users\neena\documents\visual studio 2015\Projects\Vidly\obj\Debug\Vidly.Migrations.PopulateMembershipTypes.resources
+c:\users\neena\documents\visual studio 2015\Projects\Vidly\obj\Debug\Vidly.Migrations.AddNameToMembership.resources
+c:\users\neena\documents\visual studio 2015\Projects\Vidly\obj\Debug\Vidly.Migrations.PopulateMembershipTypeName.resources
+C:\Users\Neena\documents\visual studio 2015\Projects\Vidly\obj\Debug\Vidly.Migrations.AddDateofBirthToCustomers.resources
+C:\Users\Neena\Documents\Visual Studio 2015\Projects\New folder\Vidly\bin\roslyn\csc.exe
+C:\Users\Neena\Documents\Visual Studio 2015\Projects\New folder\Vidly\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Neena\Documents\Visual Studio 2015\Projects\New folder\Vidly\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Neena\Documents\Visual Studio 2015\Projects\New folder\Vidly\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Neena\Documents\Visual Studio 2015\Projects\New folder\Vidly\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Neena\Documents\Visual Studio 2015\Projects\New folder\Vidly\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Neena\Documents\Visual Studio 2015\Projects\New folder\Vidly\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Neena\Documents\Visual Studio 2015\Projects\New folder\Vidly\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Neena\Documents\Visual Studio 2015\Projects\New folder\Vidly\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Neena\Documents\Visual Studio 2015\Projects\New folder\Vidly\bin\roslyn\vbc.exe
+C:\Users\Neena\Documents\Visual Studio 2015\Projects\New folder\Vidly\bin\roslyn\VBCSCompiler.exe
+C:\Users\Neena\Documents\Visual Studio 2015\Projects\New folder\Vidly\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Neena\Documents\Visual Studio 2015\Projects\New folder\Vidly\bin\Vidly.dll.config
+C:\Users\Neena\Documents\Visual Studio 2015\Projects\New folder\Vidly\bin\Vidly.dll
+C:\Users\Neena\Documents\Visual Studio 2015\Projects\New folder\Vidly\bin\Vidly.pdb
+C:\Users\Neena\Documents\Visual Studio 2015\Projects\New folder\Vidly\bin\Antlr3.Runtime.dll
+C:\Users\Neena\Documents\Visual Studio 2015\Projects\New folder\Vidly\bin\EntityFramework.dll
+C:\Users\Neena\Documents\Visual Studio 2015\Projects\New folder\Vidly\bin\EntityFramework.SqlServer.dll
+C:\Users\Neena\Documents\Visual Studio 2015\Projects\New folder\Vidly\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Neena\Documents\Visual Studio 2015\Projects\New folder\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Neena\Documents\Visual Studio 2015\Projects\New folder\Vidly\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Neena\Documents\Visual Studio 2015\Projects\New folder\Vidly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Neena\Documents\Visual Studio 2015\Projects\New folder\Vidly\bin\Microsoft.Owin.dll
+C:\Users\Neena\Documents\Visual Studio 2015\Projects\New folder\Vidly\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Neena\Documents\Visual Studio 2015\Projects\New folder\Vidly\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Neena\Documents\Visual Studio 2015\Projects\New folder\Vidly\bin\Microsoft.Owin.Security.dll
+C:\Users\Neena\Documents\Visual Studio 2015\Projects\New folder\Vidly\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Neena\Documents\Visual Studio 2015\Projects\New folder\Vidly\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Neena\Documents\Visual Studio 2015\Projects\New folder\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Neena\Documents\Visual Studio 2015\Projects\New folder\Vidly\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Neena\Documents\Visual Studio 2015\Projects\New folder\Vidly\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Neena\Documents\Visual Studio 2015\Projects\New folder\Vidly\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Neena\Documents\Visual Studio 2015\Projects\New folder\Vidly\bin\Newtonsoft.Json.dll
+C:\Users\Neena\Documents\Visual Studio 2015\Projects\New folder\Vidly\bin\Owin.dll
+C:\Users\Neena\Documents\Visual Studio 2015\Projects\New folder\Vidly\bin\System.Web.Helpers.dll
+C:\Users\Neena\Documents\Visual Studio 2015\Projects\New folder\Vidly\bin\System.Web.Mvc.dll
+C:\Users\Neena\Documents\Visual Studio 2015\Projects\New folder\Vidly\bin\System.Web.Optimization.dll
+C:\Users\Neena\Documents\Visual Studio 2015\Projects\New folder\Vidly\bin\System.Web.Razor.dll
+C:\Users\Neena\Documents\Visual Studio 2015\Projects\New folder\Vidly\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Neena\Documents\Visual Studio 2015\Projects\New folder\Vidly\bin\System.Web.WebPages.dll
+C:\Users\Neena\Documents\Visual Studio 2015\Projects\New folder\Vidly\bin\System.Web.WebPages.Razor.dll
+C:\Users\Neena\Documents\Visual Studio 2015\Projects\New folder\Vidly\bin\WebGrease.dll
+C:\Users\Neena\Documents\Visual Studio 2015\Projects\New folder\Vidly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Neena\Documents\Visual Studio 2015\Projects\New folder\Vidly\bin\System.Web.Helpers.xml
+C:\Users\Neena\Documents\Visual Studio 2015\Projects\New folder\Vidly\bin\System.Web.Mvc.xml
+C:\Users\Neena\Documents\Visual Studio 2015\Projects\New folder\Vidly\bin\System.Web.Optimization.xml
+C:\Users\Neena\Documents\Visual Studio 2015\Projects\New folder\Vidly\bin\System.Web.Razor.xml
+C:\Users\Neena\Documents\Visual Studio 2015\Projects\New folder\Vidly\bin\System.Web.WebPages.xml
+C:\Users\Neena\Documents\Visual Studio 2015\Projects\New folder\Vidly\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Neena\Documents\Visual Studio 2015\Projects\New folder\Vidly\bin\System.Web.WebPages.Razor.xml
+C:\Users\Neena\Documents\Visual Studio 2015\Projects\New folder\Vidly\bin\Antlr3.Runtime.pdb
+C:\Users\Neena\Documents\Visual Studio 2015\Projects\New folder\Vidly\bin\Newtonsoft.Json.xml
+C:\Users\Neena\Documents\Visual Studio 2015\Projects\New folder\Vidly\bin\EntityFramework.xml
+C:\Users\Neena\Documents\Visual Studio 2015\Projects\New folder\Vidly\bin\EntityFramework.SqlServer.xml
+C:\Users\Neena\Documents\Visual Studio 2015\Projects\New folder\Vidly\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Neena\Documents\Visual Studio 2015\Projects\New folder\Vidly\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Neena\Documents\Visual Studio 2015\Projects\New folder\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Neena\Documents\Visual Studio 2015\Projects\New folder\Vidly\bin\Microsoft.Owin.xml
+C:\Users\Neena\Documents\Visual Studio 2015\Projects\New folder\Vidly\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Neena\Documents\Visual Studio 2015\Projects\New folder\Vidly\bin\Microsoft.Owin.Security.xml
+C:\Users\Neena\Documents\Visual Studio 2015\Projects\New folder\Vidly\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Neena\Documents\Visual Studio 2015\Projects\New folder\Vidly\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Neena\Documents\Visual Studio 2015\Projects\New folder\Vidly\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Neena\Documents\Visual Studio 2015\Projects\New folder\Vidly\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Neena\Documents\Visual Studio 2015\Projects\New folder\Vidly\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Neena\Documents\Visual Studio 2015\Projects\New folder\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Neena\Documents\Visual Studio 2015\Projects\New folder\Vidly\obj\Debug\Vidly.csprojResolveAssemblyReference.cache
+C:\Users\Neena\Documents\Visual Studio 2015\Projects\New folder\Vidly\obj\Debug\Vidly.Migrations.InitialModel.resources
+C:\Users\Neena\Documents\Visual Studio 2015\Projects\New folder\Vidly\obj\Debug\Vidly.Migrations.AddIsSubscribedToCustomer.resources
+C:\Users\Neena\Documents\Visual Studio 2015\Projects\New folder\Vidly\obj\Debug\Vidly.Migrations.PopulateMembershipTypes.resources
+C:\Users\Neena\Documents\Visual Studio 2015\Projects\New folder\Vidly\obj\Debug\Vidly.Migrations.AddNameToMembership.resources
+C:\Users\Neena\Documents\Visual Studio 2015\Projects\New folder\Vidly\obj\Debug\Vidly.Migrations.PopulateMembershipTypeName.resources
+C:\Users\Neena\Documents\Visual Studio 2015\Projects\New folder\Vidly\obj\Debug\Vidly.Migrations.AddDateofBirthToCustomers.resources
+C:\Users\Neena\Documents\Visual Studio 2015\Projects\New folder\Vidly\obj\Debug\Vidly.csproj.GenerateResource.Cache
+C:\Users\Neena\Documents\Visual Studio 2015\Projects\New folder\Vidly\obj\Debug\Vidly.dll
+C:\Users\Neena\Documents\Visual Studio 2015\Projects\New folder\Vidly\obj\Debug\Vidly.pdb
+C:\Users\Neena\Documents\Visual Studio 2015\Projects\New folder\Vidly\obj\Debug\Vidly.Migrations.addMovie.resources
+C:\Users\Neena\Documents\Visual Studio 2015\Projects\New folder\Vidly\obj\Debug\Vidly.Migrations.AddGenre.resources
+C:\Users\Neena\Documents\Visual Studio 2015\Projects\New folder\Vidly\obj\Debug\Vidly.Migrations.ApplyAnnotationsToCustomerName.resources
+C:\Users\Neena\Documents\Visual Studio 2015\Projects\New folder\Vidly\obj\Debug\Vidly.Migrations.ApplyStringNameToCustomerName.resources
+C:\Users\Neena\Documents\Visual Studio 2015\Projects\New folder\Vidly\obj\Debug\Vidly.Migrations.ApplyLengthToCustomerName.resources
